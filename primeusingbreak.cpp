@@ -13,13 +13,11 @@ int main()
             if(i%j==0)
         
             
-             break;
-
-
-
-        }
+             break;//it kicks the control outside loop
+}
         if (i==j)
-        cout<<i<<endl;
+        cout<<i<<endl;//if i=j then it means that i is prime number
+        
 
 
 
