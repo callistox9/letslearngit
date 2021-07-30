@@ -15,9 +15,9 @@ int main()
             
              break;//it kicks the control outside loop
 }
-        if (i==j)
-        cout<<i<<endl;//if i=j then it means that i is prime number
-        
+        if (i==j) 
+        cout<<i<<endl;//if i=j then it means that i is prime number sfesdfsfdssfd
+
 
 
 
