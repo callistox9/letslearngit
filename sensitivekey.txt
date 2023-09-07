@@ -1,2 +1,0 @@
-key "!23497448943ywefhskbdifgj"
-sensitive key.txt
