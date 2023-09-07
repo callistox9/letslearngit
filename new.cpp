@@ -1,12 +1,10 @@
 #include <iostream>
 using namespace std;
 int main()
-{\
-kjbsdfkbj.dsk,dnbsjkds
-.kjdkjdsfjk.kds
-
-,j. sdjkdsj.bsd'
-
-jbsdfkkdsj
+{
+    cout<<"Hello World";
+    return 0;
+}
+//First commit for new users to learn
 
     
